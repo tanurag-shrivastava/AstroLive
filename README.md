@@ -18,8 +18,9 @@ Frontend:
 Backend:
 -Node.js
 -Express.js
--Database:
--MongoDB (for storing Mars Rover imagery data fetched from NASA's API)
+
+Database:
+MongoDB (for storing Mars Rover imagery data fetched from NASA's API)
 
 APIs Used:
 
