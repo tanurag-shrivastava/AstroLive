@@ -12,7 +12,6 @@ Frontend:
 -HTML5
 -CSS3
 -JavaScript (ES6)
--Bootstrap 5
 -Particles.js (for the background)
 
 Backend:
